@@ -1,1 +1,1 @@
-# Project Sample
+# Project Sample [![Java CI with Gradle](https://github.com/MetsukiSutemi0979/SelenideHW1.2/actions/workflows/gradle.yml/badge.svg)](https://github.com/MetsukiSutemi0979/SelenideHW1.2/actions/workflows/gradle.yml)
